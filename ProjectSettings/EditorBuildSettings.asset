@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/BA\u015ELATMA.unity"
+    guid: 806d1d7e62e21ee469130856eeca6af6
+  - enabled: 1
+    path: Assets/Scenes/oyun.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: "Assets/Scenes/B\u0130T\u0130\u015E EKRANI.unity"
+    guid: 51df4c4267949c0498a97e8353fe5f16
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
